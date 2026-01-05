@@ -7,5 +7,4 @@ I am a Small Programmer from Bangladesh. I like to build modern websites, Minecr
 **Game Dev:** Minecraft plugins, Skript, Roblox Studio  
 **AI:** Generative AI basics, AI integrations  
 
-## Connect
-Discord: *ItzSiden_*
+**Connect:** Discord: *ItzSiden_*
