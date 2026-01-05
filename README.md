@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Abdul Aleem
+I'm a **Small Programmer** from Bangladesh.  
+I love coding, building modern websites, and creating engaging experiences for users. Also a **Minecraft & Roblox enthusiast**—I build servers, plugins, and fun gameplay mechanics in my free time.
 
-<!--
-**ItzSiden/ItzSiden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js, TailwindCSS  
+- **Backend:** Node.js, Express, Java, MySQL, MongoDB  
+- **Game Dev:** Minecraft plugin development, Skript, Roblox Studio  
+- **AI & ML:** Basic AI integration, Generative AI implementation, AI competitions  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced **Generative AI** models  
+- Integrating AI into web apps  
+- Improving Minecraft server automation and tools  
+
+---
+
+## 📫 Connect with Me
+
+- **GitHub:** [https://github.com/ItzSiden](https://github.com/ItzSiden)  
+- **Discord:** *ItzSiden_*
