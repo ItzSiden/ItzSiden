@@ -5,6 +5,6 @@ I am a Small Programmer from Bangladesh. I like to build modern websites, Minecr
 **Frontend:** HTML, CSS, JS, React, Next.js, Tailwind  
 **Backend:** Node.js, Java, MySQL, MongoDB  
 **Game Dev:** Minecraft plugins, Skript, Roblox Studio  
-**AI:** Generative AI basics, AI integrations  
+**AI:** Generative AI, AI integrations  
 
 **Connect:** Discord: *ItzSiden_*
