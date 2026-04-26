@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=I+build+systems+that+think;AI+without+GPU+%3F+Challenge+accepted;Minecraft+but+automated;Breaking+limits+quietly" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=Minecraft+Development;Independent+Research;Web+Development;Deep+Learning+Exploration" />
 
 <br>
 
