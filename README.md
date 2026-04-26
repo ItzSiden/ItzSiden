@@ -13,6 +13,7 @@
 I'm Abdul Aleem (ItzSiden), a Full-Stack Web Developer and Minecraft Server Developer from Bangladesh 🇧🇩. I’m deeply into building systems that actually do things — from web apps to game servers and experimental AI projects.
 I enjoy working across the stack, learning new technologies fast, and turning random ideas into real, working systems. Right now, I’m especially focused on web development, Minecraft server engineering, and independent AI research.
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -35,23 +36,21 @@ I enjoy working across the stack, learning new technologies fast, and turning ra
 
 ---
 
-### AI/ML
+### AI/ML Research
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-- Deep Learning Exploration  
-- Independent AI Research  
-- Dataset & model experimentation  
-- LLM-based system building  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 ---
 
-### 🧰 Tools & Deployment
+### Tools & Deployment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat&logo=netlify&logoColor=white)
 
+---
 
 ## 📊 GitHub Stats
 
@@ -67,21 +66,19 @@ I enjoy working across the stack, learning new technologies fast, and turning ra
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaownsilva@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joynalbokhsho/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://joynalbokhsho.me)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joynalbokhsho)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulaleemkhandker@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://itzsiden.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItzSiden)
 
 </div>
 
-**Quick Contact:**
-- 📧 Email: shaownsilva@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/joynalbokhsho](https://www.linkedin.com/in/joynalbokhsho/)
-- 🌐 Portfolio: [joynalbokhsho.me](https://joynalbokhsho.me)
-- 📱 Social: @joynalbokhsho
+**⚡ Quick Contact**
+- 📧 Email: [abdulaleemkhandker@gmail.com](mailto:abdulaleemkhandker@gmail.com)
+- 🌐 Portfolio: [itzsiden.dev](https://itzsiden.dev)
+- 📱 Social: @itzsiden_
 
 ---
 
 <div align="center">
-  <sub>💖 Made with love, lots of coffee, and a dash of anime magic ✨</sub><br>
+  <sub>trained on curiosity. fine-tuned by late-night bugs. deployed anyway.</sub><br>
 </div>
