@@ -13,7 +13,6 @@
 I'm Abdul Aleem (ItzSiden), a Full-Stack Web Developer and Minecraft Server Developer from Bangladesh 🇧🇩. I’m deeply into building systems that actually do things — from web apps to game servers and experimental AI projects.
 I enjoy working across the stack, learning new technologies fast, and turning random ideas into real, working systems. Right now, I’m especially focused on web development, Minecraft server engineering, and independent AI research.
 
----
 
 ## 🛠️ Tech Stack
 
