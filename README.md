@@ -2,11 +2,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Abdul%20Aleem&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FF9C&center=true&vCenter=true&width=600&lines=01001000+01101001;Developer+Detected;Loading+Brain...;System+Override+Active" />
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=System+Builder;AI+Experimenter;Minecraft+Architect;Breaking+Things+Since+Day+1" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" />
 
 </div>
-
