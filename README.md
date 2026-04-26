@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:54cfff,100:00b7ff&text=Abdul%20Aleem%20(ItzSiden)&section=header&reversal=true&textBg=false&fontColor=dcf1fa&fontSize=65&fontAlignY=45&animation=twinkling&desc=%F0%9F%91%8B%20Hi,%20I%27m&descAlignY=25&descAlign=15&descSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:54cfff,100:00b7ff&text=Abdul%20Aleem%20(ItzSiden)&section=header&reversal=true&textBg=false&fontColor=ebebeb&fontSize=65&fontAlignY=45&animation=twinkling&desc=%F0%9F%91%8B%20Hi,%20I%27m&descAlignY=25&descAlign=15&descSize=30" />
 
 <img src="https://img.shields.io/badge/mode-experimental-0f172a?style=flat&logo=none"/>
 <img src="https://img.shields.io/badge/focus-AI%20%2B%20Systems-0f172a?style=flat&logo=none"/>
