@@ -4,8 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=Minecraft+Development;Independent+Research;Web+Development;Deep+Learning+Exploration" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=Minecraft+Server+Development;Independent+AI+Research;Fullstack+Web+Development;Deep+Learning+Exploration" />
 <br>
 
 <img src="https://img.shields.io/badge/mode-experimental-0f172a?style=flat&logo=none"/>
