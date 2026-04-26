@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abdul%20Aleem%20(ItzSiden)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<br>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=Minecraft+Server+Development;Independent+AI+Research;Fullstack+Web+Development;Deep+Learning+Exploration" />
 <br>
 
