@@ -25,7 +25,6 @@ I enjoy working across the stack, learning new technologies fast, and turning ra
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
----
 
 ### Backend
 
@@ -34,7 +33,6 @@ I enjoy working across the stack, learning new technologies fast, and turning ra
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
----
 
 ### AI/ML Research
 
@@ -42,7 +40,6 @@ I enjoy working across the stack, learning new technologies fast, and turning ra
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
----
 
 ### Tools & Deployment
 
