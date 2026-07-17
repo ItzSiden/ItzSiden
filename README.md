@@ -55,9 +55,33 @@ I enjoy working across the stack, learning new technologies fast, and turning ra
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItzSiden&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzSiden&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+  <img
+    height="180em"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ItzSiden&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ItzSiden&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+  />
+
+</div>
+
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=ItzSiden&theme=tokyonight&hide_border=true"
+  />
+
+</div>
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ItzSiden&theme=tokyo-night&hide_border=true"
+  />
+
 </div>
 
 ---
